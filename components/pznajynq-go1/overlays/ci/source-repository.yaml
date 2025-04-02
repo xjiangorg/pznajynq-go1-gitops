@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: pznajynq-go1-repository
+spec:
+  url: https://github.com/xjiangorg/pznajynq-go1
